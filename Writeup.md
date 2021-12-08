@@ -33,7 +33,7 @@ sklearn for machine learning
 
 # Communication
 
-After testing our model this figuer shows how we got a perfct predict.
+After testing our model this figuer shows how we got a perfct predict on our model.
 
 ![bokeh_plot](https://user-images.githubusercontent.com/93079353/145187473-95604583-88a1-4a10-8b58-056e5fcc0af0.png)
 
