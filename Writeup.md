@@ -17,19 +17,19 @@ Columns: 10 columns, which are Carat, Price, Cut, Color, Clarity, depth, Tabel a
 
 # Algorithms
 
-Linear regression 
-Ridge
-polynomial 
-Random forest
+- Linear regression 
+- Ridge
+- Polynomial 
+- Random forest
 
 # Tools
 
-Http 
-Beautiful soup for web scraping 
-Python Jupyter Notebook
-Numpy and Pandas for data manipulation
-Matplotlib and Seaborn for plotting
-sklearn for machine learning
+- Http 
+- Beautiful soup for web scraping 
+- Python Jupyter Notebook
+- Numpy and Pandas for data manipulation
+- Matplotlib and Seaborn for plotting
+- sklearn for machine learning
 
 # Communication
 
