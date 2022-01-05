@@ -11,8 +11,8 @@ This project dataset was provided by Kaggle, We use this data to bulid a model t
 
 The Diamonds dataset contains a few feature include Carat, Price, Cut, Color, Clarity, depth and Table. 
 
-Raws:53,940 rows
-Columns: 10 columns, which are Carat, Price, Cut, Color, Clarity, depth, Tabel and (x represent length, y represent width and z represent depth)
+Columns: 10 columns
+Raws: 53,940 rows which are Carat, Price, Cut, Color, Clarity, depth, Tabel and (x represent length, y represent width and z represent depth)
 
 
 # Algorithms
@@ -24,8 +24,6 @@ Columns: 10 columns, which are Carat, Price, Cut, Color, Clarity, depth, Tabel a
 
 # Tools
 
-- Http 
-- Beautiful soup for web scraping 
 - Python Jupyter Notebook
 - Numpy and Pandas for data manipulation
 - Matplotlib and Seaborn for plotting
